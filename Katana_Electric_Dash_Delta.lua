@@ -14,14 +14,14 @@ local CYAN=Color3.fromRGB(0,220,255)
 local CYAN_BRIGHT=Color3.fromRGB(80,255,255)
 local SOUND_ID="rbxassetid://71077603322725"
 
-local ELECTRIC_SPEED=30.4
+local ELECTRIC_SPEED=30.1
 local ELECTRIC_JUMP=59
 local ELECTRIC_GRAVITY=121
 local ACTIVE_TIME=45
 local ELECTRIC_COOLDOWN=90
-local DASH_DISTANCE= 19.4
+local DASH_DISTANCE= 16.9
 local DASH_COOLDOWN= 4
-local DASH_TIME= 0.2
+local DASH_TIME= 0.18
 
 local LastKatana=nil
 local ElectricActive=false
